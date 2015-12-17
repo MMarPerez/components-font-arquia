@@ -1,0 +1,20 @@
+{
+  "name": "components-font-arquia",
+  "description": "Font Arquia",
+  "main": [ 
+      "css/arquia-font.css",
+      "fonts/arquia-font.eot",
+      "fonts/arquia-font.woff",
+      "fonts/arquia-font.ttf",
+      "fonts/arquia-font.svg"
+  ],
+  "license": [
+    "MIT",
+    "OFL-1.1"
+  ],
+  "ignore": [
+    "Makefile",
+    "component.json",
+    "composer.json"
+  ]
+}
